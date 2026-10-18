@@ -15,3 +15,5 @@ bölüm 4
 Sonuç Bölümü
 
 Git çok zor hocam.
+
+Selam selam
