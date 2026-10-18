@@ -13,5 +13,3 @@ bölüm 3
 bölüm 4
 
 Sonuç Bölümü
-
-Git çok zor hocam.
