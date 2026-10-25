@@ -19,3 +19,5 @@ Git çok zor hocam.
 Selam selam
 
 selam selam
+
+github dekstop fetch deneme
