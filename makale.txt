@@ -17,3 +17,5 @@ Sonuç Bölümü
 Git çok zor hocam.
 
 Selam selam
+
+selam selam
