@@ -28,5 +28,5 @@ conflict durumu oluşturma deneme!
 
 conflict durumu oluşturma deneme 2!
 
-conflict deneme 3 local
+conflict durumu oluşturma deneme 3 local
 
