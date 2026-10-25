@@ -23,3 +23,5 @@ selam selam
 github dekstop fetch deneme
 
 github dekstop fetch deneme 2
+
+conflict durumu oluşturma deneme!
